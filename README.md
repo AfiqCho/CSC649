@@ -7,4 +7,4 @@ A simple Python program that accepts user input from the console, validates agai
 1. Ensure Python 3.12 is installed.
 2. Run the script via terminal or PyCharm:
    ```bash
-   python main.py
+   python main.py"# CSC649" 
